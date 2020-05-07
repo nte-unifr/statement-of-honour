@@ -1,5 +1,5 @@
 ---
-title: "Faculté des sciences et de médecine - Fakultäten Mathematisch-Naturwissenschaftliche und Medizinische Fakultät"
+title: "Faculté des sciences et de médecine - Mathematisch-Naturwissenschaftliche und Medizinische Fakultät"
 permalink: /scimed/
 ---
 
