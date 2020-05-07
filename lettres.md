@@ -1,5 +1,5 @@
 ---
-title: "Lettres"
+title: "Faculté des lettres et des sciences humaines - Philosophische Fakultät"
 permalink: /lettres/
 ---
 
