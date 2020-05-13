@@ -2,6 +2,8 @@
 title: "Faculté de droit - Rechtswissenschaftliche Fakultät"
 permalink: /ius/
 ---
+Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer.  
+Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
 
 ### Déclaration sur l’honneur pour les examens en ligne
 > Je sais que commet une fraude aux examens celui ou celle, « qui, lors des examens, à des fins personnelles ou au profit d’une tierce personne, utilise des moyens ou outils illicites, se procure illicitement les questions d’examens, y répond de façon illicite avec l’aide d’une tierce personne ou copie sur celle-ci » (énumération non exhaustive selon l’art. 116, al. 3 des Statuts de l’Université de Fribourg du 4 novembre 2016). Je sais que la fraude aux examens sera poursuivie et sanctionnée, notamment par la révocation de l'examen et du titre (art. 117, al. 3 des Statuts).
