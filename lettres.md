@@ -3,7 +3,7 @@ title: "Faculté des lettres et des sciences humaines - Philosophische Fakultät
 permalink: /lettres/
 ---
 
-Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer. 
+Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer.  
 Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
 
 ### Déclaration sur l’honneur pour les examens en ligne
