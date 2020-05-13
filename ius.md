@@ -2,6 +2,7 @@
 title: "Faculté de droit - Rechtswissenschaftliche Fakultät"
 permalink: /ius/
 ---
+
 Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer.  
 Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
 
