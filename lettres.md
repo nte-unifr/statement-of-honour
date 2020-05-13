@@ -1,10 +1,10 @@
-Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer. 
-Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
-
 ---
 title: "Faculté des lettres et des sciences humaines - Philosophische Fakultät"
 permalink: /lettres/
 ---
+
+Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer. 
+Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
 
 ### Déclaration sur l’honneur pour les examens en ligne
 > J'ai connaissance du fait que la fraude aux examens est commise par "toute personne qui, au cours d'un examen, utilise des moyens ou des équipements non autorisés pour son propre compte ou pour le compte d'un tiers, obtient des copies d'examen sans autorisation, résout des copies d'examen sans autorisation avec l'aide d'un tiers ou des copies provenant d'un tiers" (liste non exhaustive en vertu de l'art. 116 alinéa 3 des Statuts de l'Université de Fribourg du 4 novembre 2016), et sait que la fraude aux examens sera poursuivie et sanctionnée, notamment par la révocation de l'examen et du titre (art. 117 alinéa 3 des Statuts).
