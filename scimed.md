@@ -27,4 +27,4 @@ Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitt
 >  
 > Any grossly negligent or intentional scientific misconduct will be reported to the Rectorate and prosecuted in accordance with the Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
 >
-> II hereby declare on my honour to take the exams for the summer session 2020 in accordance with the conditions communicated by the Faculty. In particular, I will not call upon the help of third parties, nor will I myself provide such help to third parties. I also confirm that I have logged into the "Moodle" examination portal with my own login and password.
+> I hereby declare on my honour to take the exams for the summer session 2020 in accordance with the conditions communicated by the Faculty. In particular, I will not call upon the help of third parties, nor will I myself provide such help to third parties. I also confirm that I have logged into the "Moodle" examination portal with my own login and password.
