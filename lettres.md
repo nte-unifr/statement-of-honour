@@ -3,7 +3,7 @@ title: "Faculté des lettres et des sciences humaines - Philosophische Fakultät
 permalink: /lettres/
 ---
 
-Pour les étudiants : veuillez accepter la déclaration sur l’honneur suivante. C'est une condition préalable pour passer les examens.  
+Pour les étudiant·es : veuillez accepter la déclaration sur l’honneur suivante. C'est une condition préalable pour passer les examens.  
 Pour les enseignant·es : cette déclaration ne doit être faite que par les étudiant·es. Néanmoins, veuillez cliquer sur "Oui" afin de pouvoir continuer.  
   
 Hinweis für Studierende: Bitte geben Sie die nachstehende Ehrenwörtliche Erklärung ab. Dies ist eine Voraussetzung dafür, dass Sie die Examen ablegen können.  
