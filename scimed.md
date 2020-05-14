@@ -3,8 +3,11 @@ title: "Faculté des sciences et de médecine - Mathematisch-Naturwissenschaftli
 permalink: /scimed/
 ---
 
-Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer.  
-Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
+Pour les étudiant·es : veuillez accepter la déclaration sur l’honneur suivante. C'est une condition préalable pour passer les examens.  
+Pour les enseignant·es : cette déclaration ne doit être faite que par les étudiant·es. Néanmoins, veuillez cliquer sur "Oui" afin de pouvoir continuer.  
+  
+Hinweis für Studierende: Bitte geben Sie die nachstehende Ehrenwörtliche Erklärung ab. Dies ist eine Voraussetzung dafür, dass Sie die Examen ablegen können.  
+Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben. Bitte klicken Sie gleichwohl auf «Ja», damit Sie fortfahren können.
 
 ### Déclaration sur l’honneur pour les examens en ligne
 > En participant à des examens en ligne, l’étudiant·e confirme avoir écrit son examen seul·e, sans consultation d’autres personnes et sans consultation de livres ou autres sources d’information, sauf autorisation explicite dans les consignes de l’examen.
