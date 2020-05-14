@@ -3,14 +3,24 @@ title: "Faculté des sciences et de médecine - Mathematisch-Naturwissenschaftli
 permalink: /scimed/
 ---
 
+Information aux enseignant·es : cette déclaration ne s'applique qu'aux étudiant·es. Merci de l'accepter pour continuer.  
+Informationen für Dozierende : diese Erklärung gilt nur für Studierende. Bitte akzeptieren Sie sie, um fortzufahren.
+
 ### Déclaration sur l’honneur pour les examens en ligne
-> In eu purus porta, vehicula lorem in, consequat enim. Aliquam semper at nisi non cursus. Sed sit amet erat in enim gravida dapibus. Vivamus facilisis ligula non ligula blandit, eu sagittis turpis cursus. Donec aliquet vitae enim eu tincidunt. Maecenas vehicula lobortis purus eu rhoncus. Pellentesque feugiat, felis in tempus condimentum, ante nisi porttitor mauris, a rutrum lectus nulla in sem. Sed vestibulum dapibus enim, ut efficitur nisl pharetra at. Nullam dapibus ipsum ipsum, nec euismod enim malesuada vestibulum. Aliquam id mauris eros. Pellentesque dignissim a risus eget imperdiet. Nulla vitae ligula vitae est tincidunt aliquam. Donec mollis neque et est elementum eleifend. Nunc eu nulla quis arcu interdum sagittis sed id dolor. Vivamus tristique consectetur nisi.
+> En participant à des examens en ligne, l’étudiant·e confirme avoir écrit son examen seul·e, sans consultation d’autres personnes et sans consultation de livres ou autres sources d’information, sauf autorisation explicite dans les consignes de l’examen.
 >  
-> Quisque interdum aliquet consequat. Donec vitae justo leo. Aenean maximus orci ut quam venenatis efficitur quis id erat. Donec rhoncus iaculis placerat. Duis in pretium ex, eget fermentum purus. Vestibulum ac nulla venenatis, laoreet tellus non, posuere mi. Vivamus vel varius sem, at pellentesque mi. Donec auctor venenatis augue, eget dictum odio dignissim a. Etiam vehicula suscipit quam id vulputate.
+> Tout comportement scientifique délictueux sera dénoncé au Rectorat et poursuivi conformément aux Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
 
   
 
 ### Ehrenwörtliche Erklärung bei schriftlichen Online-Prüfungen
-> In eu purus porta, vehicula lorem in, consequat enim. Aliquam semper at nisi non cursus. Sed sit amet erat in enim gravida dapibus. Vivamus facilisis ligula non ligula blandit, eu sagittis turpis cursus. Donec aliquet vitae enim eu tincidunt. Maecenas vehicula lobortis purus eu rhoncus. Pellentesque feugiat, felis in tempus condimentum, ante nisi porttitor mauris, a rutrum lectus nulla in sem. Sed vestibulum dapibus enim, ut efficitur nisl pharetra at. Nullam dapibus ipsum ipsum, nec euismod enim malesuada vestibulum. Aliquam id mauris eros. Pellentesque dignissim a risus eget imperdiet. Nulla vitae ligula vitae est tincidunt aliquam. Donec mollis neque et est elementum eleifend. Nunc eu nulla quis arcu interdum sagittis sed id dolor. Vivamus tristique consectetur nisi.
+> Durch die Teilnahme an Online-Prüfungen bestätigt der/die Studierende, dass er/sie die Prüfung allein geschrieben hat, ohne andere Personen zu konsultieren und ohne Bücher oder andere Informationsquellen zu konsultieren, es sei denn, dies ist in den Prüfungsanweisungen ausdrücklich erlaubt.
 >  
-> Quisque interdum aliquet consequat. Donec vitae justo leo. Aenean maximus orci ut quam venenatis efficitur quis id erat. Donec rhoncus iaculis placerat. Duis in pretium ex, eget fermentum purus. Vestibulum ac nulla venenatis, laoreet tellus non, posuere mi. Vivamus vel varius sem, at pellentesque mi. Donec auctor venenatis augue, eget dictum odio dignissim a. Etiam vehicula suscipit quam id vulputate.
+> Jedes grob fahrlässig oder vorsätzliche wissenschaftliche Fehlverhalten wird dem Rektorat gemeldet und gemäss den Richtlinien vom 13. Mai 2008 über das Verfahren zur Verhängung von Disziplinarstrafen verfolgt.
+
+  
+
+### Declaration of Honour for Online Examinations
+> By taking online exams, the student confirms that he/she has written the exam on his/her own, without consulting other persons and without consulting books or other sources of information, unless this is expressly permitted in the exam instructions.
+>  
+> Any grossly negligent or intentional scientific misconduct will be reported to the Rectorate and prosecuted in accordance with the Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
