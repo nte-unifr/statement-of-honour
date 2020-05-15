@@ -18,7 +18,7 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
   
 
 ### Ehrenwörtliche Erklärung bei schriftlichen Online-Prüfungen
-> Ich erkläre hiermit ehrenwörtlich, dass ich die Arbeit persönlich erstelle und nur die autorisierten Hilfsmittel und Quellen verwende. Ich nehme dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten.
+> Ich erkläre hiermit ehrenwörtlich, dass ich die Online-Prüfungen des FS 2020 persönlich erstelle und nur die autorisierten Hilfsmittel und Quellen verwende. Ich nehme dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten.
 >  
 > Mir ist bewusst, dass andernfalls Prüfungsbetrug vorliegt (Art. 116 Abs. 3 der Statuten der Universität Freiburg vom 4. November 2016). Ich weiss, dass Prüfungsbetrug verfolgt und namentlich dadurch geahndet wird, dass die Prüfung und der Titel aberkannt werden (Art. 117 Abs. 3 der Statuten).
 >  
