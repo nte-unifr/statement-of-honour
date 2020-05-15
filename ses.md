@@ -3,14 +3,23 @@ title: "Faculté des sciences économiques et sociales et du management - Wirtsc
 permalink: /ses/
 ---
 
-### Déclaration sur l’honneur pour les examens en ligne
-> In eu purus porta, vehicula lorem in, consequat enim. Aliquam semper at nisi non cursus. Sed sit amet erat in enim gravida dapibus. Vivamus facilisis ligula non ligula blandit, eu sagittis turpis cursus. Donec aliquet vitae enim eu tincidunt. Maecenas vehicula lobortis purus eu rhoncus. Pellentesque feugiat, felis in tempus condimentum, ante nisi porttitor mauris, a rutrum lectus nulla in sem. Sed vestibulum dapibus enim, ut efficitur nisl pharetra at. Nullam dapibus ipsum ipsum, nec euismod enim malesuada vestibulum. Aliquam id mauris eros. Pellentesque dignissim a risus eget imperdiet. Nulla vitae ligula vitae est tincidunt aliquam. Donec mollis neque et est elementum eleifend. Nunc eu nulla quis arcu interdum sagittis sed id dolor. Vivamus tristique consectetur nisi.
->  
-> Quisque interdum aliquet consequat. Donec vitae justo leo. Aenean maximus orci ut quam venenatis efficitur quis id erat. Donec rhoncus iaculis placerat. Duis in pretium ex, eget fermentum purus. Vestibulum ac nulla venenatis, laoreet tellus non, posuere mi. Vivamus vel varius sem, at pellentesque mi. Donec auctor venenatis augue, eget dictum odio dignissim a. Etiam vehicula suscipit quam id vulputate.
+Pour les étudiant·es : veuillez accepter la déclaration sur l’honneur suivante. C'est une condition préalable pour passer les examens.  
+Pour les enseignant·es : cette déclaration ne doit être faite que par les étudiant·es. Néanmoins, veuillez cliquer sur "Oui" afin de pouvoir continuer.  
+  
+Hinweis für Studierende: Bitte geben Sie die nachstehende Ehrenwörtliche Erklärung ab. Dies ist eine Voraussetzung dafür, dass Sie die Examen ablegen können.  
+Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben. Bitte klicken Sie gleichwohl auf «Ja», damit Sie fortfahren können.
 
+### Déclaration sur l’honneur pour les examens en ligne
+> Je déclare ici sur l’honneur que je passerai les examens de la session d’examens en ligne SP 2020 dans le respect des conditions annoncées par la Faculté et n’utilise que les outils et les sources autorisés. En particulier, je ne ferai pas appel à l'aide de tiers et je ne fournirai pas moi-même cette aide à des tiers.
+>  
+> Je suis conscient-e que le cas contraire constitue une fraude aux examens (art. 116 alinéa 3 des Statuts de l'Université de Fribourg du 4 novembre 2016). Je sais que la fraude est poursuivie et notamment sanctionnée par le retrait de l’examen et du titre (art. 117 alinéa 3 des Statuts).
+>  
+> En cliquant sur ce lien, je reconnais aussi m’être connecté-e avec mes propres identifiants.
   
 
 ### Ehrenwörtliche Erklärung bei schriftlichen Online-Prüfungen
-> In eu purus porta, vehicula lorem in, consequat enim. Aliquam semper at nisi non cursus. Sed sit amet erat in enim gravida dapibus. Vivamus facilisis ligula non ligula blandit, eu sagittis turpis cursus. Donec aliquet vitae enim eu tincidunt. Maecenas vehicula lobortis purus eu rhoncus. Pellentesque feugiat, felis in tempus condimentum, ante nisi porttitor mauris, a rutrum lectus nulla in sem. Sed vestibulum dapibus enim, ut efficitur nisl pharetra at. Nullam dapibus ipsum ipsum, nec euismod enim malesuada vestibulum. Aliquam id mauris eros. Pellentesque dignissim a risus eget imperdiet. Nulla vitae ligula vitae est tincidunt aliquam. Donec mollis neque et est elementum eleifend. Nunc eu nulla quis arcu interdum sagittis sed id dolor. Vivamus tristique consectetur nisi.
+> Ich erkläre hiermit ehrenwörtlich, dass ich die Arbeit persönlich erstelle und nur die autorisierten Hilfsmittel und Quellen verwende. Ich nehme dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten.
 >  
-> Quisque interdum aliquet consequat. Donec vitae justo leo. Aenean maximus orci ut quam venenatis efficitur quis id erat. Donec rhoncus iaculis placerat. Duis in pretium ex, eget fermentum purus. Vestibulum ac nulla venenatis, laoreet tellus non, posuere mi. Vivamus vel varius sem, at pellentesque mi. Donec auctor venenatis augue, eget dictum odio dignissim a. Etiam vehicula suscipit quam id vulputate.
+> Mir ist bewusst, dass andernfalls Prüfungsbetrug vorliegt (Art. 116 Abs. 3 der Statuten der Universität Freiburg vom 4. November 2016). Ich weiss, dass Prüfungsbetrug verfolgt und namentlich dadurch geahndet wird, dass die Prüfung und der Titel aberkannt werden (Art. 117 Abs. 3 der Statuten).
+>  
+> Indem ich auf diesen Link klicke, bestätige ich ausserdem, dass ich mich mit meinen eigenen Zugangsdaten angemeldet habe.
