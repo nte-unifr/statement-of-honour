@@ -22,7 +22,7 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
 >  
 > Jedes grob fahrlässig oder vorsätzliche wissenschaftliche Fehlverhalten wird dem Rektorat gemeldet und gemäss den Richtlinien vom 13. Mai 2008 über das Verfahren zur Verhängung von Disziplinarstrafen verfolgt.
 >
-> Ich erkläre hiermit ehrenwörtlich, dass ich die Prüfungen in der Wintersession 2021 unter Einhaltung der von der Fakultät bekanntgegebenen Bedingungen ablege. Namentlich nehme ich dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten. Ausserdem bestätige ich, dass ich mich mit meinen eigenen Identifizierungsnachweisen in das Prüfungsportal „Moodle“ eingeloggt habe.
+> Ich erkläre hiermit ehrenwörtlich, dass ich die Prüfungen in der Wintersession 2021 unter Einhaltung der von der Fakultät bekanntgegebenen Bedingungen ablege. Namentlich nehme ich dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten. Ausserdem bestätige ich, dass ich mich mit meinen persönlichen Logindaten in das Prüfungsportal „Moodle“ eingeloggt habe.
  
 
 ### Declaration of Honour for Online Examinations
