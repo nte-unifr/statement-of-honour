@@ -14,7 +14,7 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
 >  
 > Tout comportement scientifique délictueux sera dénoncé au Rectorat et poursuivi conformément aux Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
 >
-> Par la présente, je déclare sur l’honneur passer les examens de la session d’hiver 2021 dans le respect des conditions communiquées par la Faculté. En particulier, je ne ferai pas appel à l’aide de tiers et je ne fournirai pas moi-même une assistance correspondante à des tiers. Je confirme également que je me suis connecté-e au portail d’examens “Moodle” avec mes propres identifiants.
+> Par la présente, je déclare sur l’honneur passer les examens de la session d’hiver 2022 dans le respect des conditions communiquées par la Faculté. En particulier, je ne ferai pas appel à l’aide de tiers et je ne fournirai pas moi-même une assistance correspondante à des tiers. Je confirme également que je me suis connecté-e au portail d’examens “Moodle” avec mes propres identifiants.
   
 
 ### Ehrenwörtliche Erklärung bei schriftlichen Online-Prüfungen
