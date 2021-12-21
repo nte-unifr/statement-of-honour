@@ -14,7 +14,7 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
 >  
 > Tout comportement scientifique délictueux sera dénoncé au Rectorat et poursuivi conformément aux Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
 >
-> Par la présente, je déclare sur l’honneur passer les examens de la session d’automne 2021 dans le respect des conditions communiquées par la Faculté. En particulier, je ne ferai pas appel à l’aide de tiers et je ne fournirai pas moi-même une assistance correspondante à des tiers. Je confirme également que je me suis connecté-e au portail d’examens “Moodle” avec mes propres identifiants.
+> Par la présente, je déclare sur l’honneur passer les examens de la session d’hiver 2021 dans le respect des conditions communiquées par la Faculté. En particulier, je ne ferai pas appel à l’aide de tiers et je ne fournirai pas moi-même une assistance correspondante à des tiers. Je confirme également que je me suis connecté-e au portail d’examens “Moodle” avec mes propres identifiants.
   
 
 ### Ehrenwörtliche Erklärung bei schriftlichen Online-Prüfungen
@@ -22,7 +22,7 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
 >  
 > Jedes grob fahrlässig oder vorsätzliche wissenschaftliche Fehlverhalten wird dem Rektorat gemeldet und gemäss den Richtlinien vom 13. Mai 2008 über das Verfahren zur Verhängung von Disziplinarstrafen verfolgt.
 >
-> Ich erkläre hiermit ehrenwörtlich, dass ich die Prüfungen in der Herbstsession 2021 unter Einhaltung der von der Fakultät bekanntgegebenen Bedingungen ablege. Namentlich nehme ich dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten. Ausserdem bestätige ich, dass ich mich mit meinen persönlichen Logindaten in das Prüfungsportal „Moodle“ eingeloggt habe.
+> Ich erkläre hiermit ehrenwörtlich, dass ich die Prüfungen in der Wintersession 2022 unter Einhaltung der von der Fakultät bekanntgegebenen Bedingungen ablege. Namentlich nehme ich dabei weder die Hilfe Dritter in Anspruch, noch werde ich selber Dritten entsprechende Hilfe leisten. Ausserdem bestätige ich, dass ich mich mit meinen persönlichen Logindaten in das Prüfungsportal „Moodle“ eingeloggt habe.
  
 
 ### Declaration of Honour for Online Examinations
@@ -30,4 +30,4 @@ Hinweis für Dozierende: Diese Erklärung ist nur von den Studierenden abzugeben
 >  
 > Any grossly negligent or intentional scientific misconduct will be reported to the Rectorate and prosecuted in accordance with the Directives du 13 mai 2008 concernant la procédure de prononcé des sanctions disciplinaires.
 >
-> I hereby declare on my honour to take the exams for the fall session 2021 in accordance with the conditions communicated by the Faculty. In particular, I will not call upon the help of third parties, nor will I myself provide such help to third parties. I also confirm that I have logged into the "Moodle" examination portal with my own login and password.
+> I hereby declare on my honour to take the exams for the winter session 2022 in accordance with the conditions communicated by the Faculty. In particular, I will not call upon the help of third parties, nor will I myself provide such help to third parties. I also confirm that I have logged into the "Moodle" examination portal with my own login and password.
